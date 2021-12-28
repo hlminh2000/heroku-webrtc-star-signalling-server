@@ -1,0 +1,12 @@
+{
+  "name": "heroku-webrtc-star-signalling-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx libp2p-webrtc-star-signalling-server"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.3",
+    "libp2p-webrtc-star-signalling-server": "^0.1.1"
+  }
+}
